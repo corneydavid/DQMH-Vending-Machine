@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="15008000">
+<Project Type="Project" LVVersion="20008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -140,6 +140,7 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{A9E46532-2F94-493F-B79E-A59752E6C4AA}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{4FF13B9D-06ED-4DCA-9FA7-C37643A60BAB}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">1</Property>
 				<Property Name="App_winsec.description" Type="Str">http://www.Scientifica.com</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{77B69A78-34E9-4EDF-9E5D-ADA737EF00B9}</Property>
